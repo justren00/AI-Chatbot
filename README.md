@@ -11,4 +11,5 @@ A full stack AI chatbot application built with HTML, CSS, and JavaScript, powere
 
 
 ## Demo 
+
 <img width="1433" alt="Screenshot 2025-03-06 at 10 57 56 PM" src="https://github.com/user-attachments/assets/fc15c77c-bae6-4c13-9ff3-81717ac21716" />
